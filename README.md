@@ -5,13 +5,12 @@ A six-week course at ITP. Please note that this syllabus/schedule is a rough dra
 ## Schedule
 
 ### Week 1
-- Intro to python and the command line
-- Intro to FFMPEG
-- Intro to editing video with moviepy
+- Intro to the command line
+- Getting content with youtube-dl
+- Editing video with python and moviepy
 
 ### Week 2
-- Videogrep
-- Transcribing video
+- Videogrep & transcribing video
 - More on moviepy
 - Assignment 1 due
 
@@ -21,7 +20,8 @@ A six-week course at ITP. Please note that this syllabus/schedule is a rough dra
 - Intro to OpenCV
 
 ### Week 4
-- Advanced FFMPEG
+- FFMPEG
+- pillow and basic image manipulation
 - Making a video-generating bot
 - Assignment 2 due
 
