@@ -61,7 +61,7 @@ In this experimental video class students will learn to use Python and command l
 - Final presentations and critique
 
 ### Public Screening
-- The class will conclude with a public screening of final projects, at ITP (date and time to be determined)
+- The class will conclude with a public screening of final projects, at ITP. You may screen any project you made during the class. More details soon!
 
 ***
 
