@@ -11,6 +11,7 @@ In this experimental video class students will learn to use Python and command l
 - How to hand in your homework
 - Intro to the command line
 - Getting content with youtube-dl
+- Quick overview of python
 - Editing video with python and moviepy
 - Intro to ffmpeg (time permitting)
 
