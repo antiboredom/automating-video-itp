@@ -2,6 +2,8 @@
 
 In this experimental video class students will learn to use Python and command line tools to explore the possibilities of automating the film-making process. We will cover techniques for capturing, analyzing, editing and manipulating video with code. We’ll treat video as a textual as well as visual medium, repurposing found footage to generate new compositions and narratives.
 
+**The class will conclude with a public screening of your final projects (date and time to be determined)**
+
 ## Schedule
 
 ### Week 1
@@ -59,13 +61,16 @@ Submit a link to your project on the [class homework wiki](https://github.com/an
 ***
 
 ### Week 6
-- Final presentations
+- Final presentations and critique
+
+### Public Screening
+- The class will conclude with a public screening of final projects, at ITP (date and time to be determined)
 
 ***
 
 ## Grading
 * Each of the three projects is worth 25% of your grade, and class participation is 25%.
-* To turn in your projects, add them to the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki). (Just hid the edit button)
+* To turn in your projects, add them to the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki). (Just hit the edit button)
 * Please come to class, and be on time!
 * Coming to class more than 20 minutes late counts as an absence.
 * More than one unexcused absence is grounds for failure :(
