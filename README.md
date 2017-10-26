@@ -15,9 +15,8 @@ In this experimental video class students will learn to use Python and command l
 - Intro to ffmpeg (time permitting)
 
 #### Project #1 (Due week 2)
-Create a video that repurposes footage you find online. Think about the meaning of your source material, and what new meaning can create with it. Your work should reveal something about your source material, add to it, tell a new story with it.
-
-Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki)
+- Create a video that repurposes footage you find online. Think about the meaning of your source material, and what new meaning can create with it. Your work should reveal something about your source material, add to it, tell a new story with it.
+- Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki)
 
 *** 
 
@@ -28,9 +27,8 @@ Submit a link to your project on the [class homework wiki](https://github.com/an
 - **Project 1 due**
 
 #### Project #2 (due week 4)
-Shoot a video automatically.
-
-Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki).
+- Shoot a video automatically.
+- Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki).
 
 ***
 
@@ -49,9 +47,8 @@ Submit a link to your project on the [class homework wiki](https://github.com/an
 - **Project 2 due**
 
 #### Project 3 (due week 6)
-Make a video bot.
-
-Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki).
+- Make a video bot.
+- Submit a link to your project on the [class homework wiki](https://github.com/antiboredom/automating-video-itp/wiki).
 
 ***
 
