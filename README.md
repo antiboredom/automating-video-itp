@@ -98,5 +98,6 @@ I'm available to meet by appointment in person or by Skype/Google Hangouts. Plea
 
 ### Video
 * [ffmpeg](https://ffmpeg.org/)
+* [melt](https://www.mltframework.org/)
 * [moviepy](http://zulko.github.io/moviepy/)
 
