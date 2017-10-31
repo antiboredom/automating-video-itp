@@ -7,6 +7,7 @@ Pan/tilt/zoom api (see page 20): https://www.axis.com/files/manuals/vapix_ptz_52
 import requests
 import subprocess
 
+# change the BASE_URL as needed
 BASE_URL = 'http://172.22.151.17'
 CONTROL_URL = BASE_URL + '/axis-cgi/com/ptz.cgi'
 MJPG_URL = BASE_URL + '/mjpg/video.mjpg'
@@ -68,4 +69,5 @@ def record(outputname, duration='10:00:00', rtsp=True):
     else:
         args = ['ffmpeg', '-f', 'mjpeg', '-r', '30', '-i', MJPG_URL, '-t', duration, '-y', outputname]
 
+    # records in the background to allow script to continue
     subprocess.Popen(args)
