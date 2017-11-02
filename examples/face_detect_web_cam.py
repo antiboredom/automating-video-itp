@@ -1,6 +1,7 @@
 import numpy as np
 import cv2
 
+# download haar cascades from: https://github.com/opencv/opencv/tree/master/data/haarcascades
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 video_capture = cv2.VideoCapture(0)
