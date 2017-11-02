@@ -2,7 +2,7 @@
 
 In this experimental video class students will learn to use Python and command line tools to explore the possibilities of automating the film-making process. We will cover techniques for capturing, analyzing, editing and manipulating video with code. We’ll treat video as a textual as well as visual medium, repurposing found footage to generate new compositions and narratives.
 
-**The class will conclude with a public screening of your final projects (date and time to be determined)**
+The class will conclude with a public screening of your final projects: **December 12th, 6pm at ITP**
 
 ## Schedule
 
