@@ -61,8 +61,8 @@ The class will conclude with a public screening of your final projects: **Decemb
 ### Week 6
 - Final presentations and critique
 
-### Public Screening
-- The class will conclude with a public screening of final projects, at ITP. You may screen any project you made during the class. More details soon!
+### Public Screening: December 12th, 6pm
+- The class will conclude with a public screening of final projects, at ITP. You may screen any project you made during the class.
 
 ***
 
