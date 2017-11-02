@@ -110,6 +110,11 @@ I'm available to meet by appointment in person or by Skype/Google Hangouts. Plea
 * [melt](https://www.mltframework.org/)
 * [moviepy](http://zulko.github.io/moviepy/)
 
+### Computer Vision
+* [opencv](http://opencv-python-tutroals.readthedocs.io/) (```brew install opencv```)
+* [simplecv](http://simplecv.org/)
+* [darkflow](https://github.com/thtrieu/darkflow) (Object detection/tagging)
+
 ### Automating Shooting
 * [Axis Camera REST API](https://www.axis.com/files/manuals/vapix_ptz_52933_en_1307.pdf)
 * [Control a servo motor with Python](https://github.com/montoyamoraga/servo_camera) - By Aarón Montoya-Moraga
