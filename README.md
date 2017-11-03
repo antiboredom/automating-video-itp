@@ -119,3 +119,7 @@ I'm available to meet by appointment in person or by Skype/Google Hangouts. Plea
 * [Axis Camera REST API](https://www.axis.com/files/manuals/vapix_ptz_52933_en_1307.pdf)
 * [Control a servo motor with Python](https://github.com/montoyamoraga/servo_camera) - By Aarón Montoya-Moraga
 
+### NYU Resources
+* [High Performance Computing](https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU)
+  * [Getting an account](https://wikis.nyu.edu/display/NYUHPC/Getting+or+renewing+an+HPC+account)
+
