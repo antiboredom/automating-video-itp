@@ -1,4 +1,4 @@
-#Videogrep
+# Videogrep
 
 Videogrep lets you make supercuts based on the spoken word content of videos. In order for it to work you need to have either a subtitle file (ending with ```.srt```) or a transcription.
 
