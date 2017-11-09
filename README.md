@@ -109,6 +109,7 @@ I'm available to meet by appointment in person or by Skype/Google Hangouts. Plea
 * [ffmpeg](https://ffmpeg.org/)
 * [melt](https://www.mltframework.org/)
 * [moviepy](http://zulko.github.io/moviepy/)
+* [vidpy](http://antiboredom.github.io/vidpy/)
 
 ### Computer Vision
 * [opencv](http://opencv-python-tutroals.readthedocs.io/) (```brew install opencv```)
