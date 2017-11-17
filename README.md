@@ -2,7 +2,7 @@
 
 In this experimental video class students will learn to use Python and command line tools to explore the possibilities of automating the film-making process. We will cover techniques for capturing, analyzing, editing and manipulating video with code. We’ll treat video as a textual as well as visual medium, repurposing found footage to generate new compositions and narratives.
 
-**The class will conclude with a public screening of your final projects (date and time to be determined)**
+The class will conclude with a public screening of your final projects: **December 12th, 6pm at ITP**
 
 ## Schedule
 
@@ -61,8 +61,8 @@ In this experimental video class students will learn to use Python and command l
 ### Week 6
 - Final presentations and critique
 
-### Public Screening
-- The class will conclude with a public screening of final projects, at ITP. You may screen any project you made during the class. More details soon!
+### Public Screening: December 12th, 6pm
+- The class will conclude with a public screening of final projects, at ITP. You may screen any project you made during the class.
 
 ***
 
@@ -109,4 +109,18 @@ I'm available to meet by appointment in person or by Skype/Google Hangouts. Plea
 * [ffmpeg](https://ffmpeg.org/)
 * [melt](https://www.mltframework.org/)
 * [moviepy](http://zulko.github.io/moviepy/)
+* [vidpy](http://antiboredom.github.io/vidpy/)
+
+### Computer Vision
+* [opencv](http://opencv-python-tutroals.readthedocs.io/) (```brew install opencv```)
+* [simplecv](http://simplecv.org/)
+* [darkflow](https://github.com/thtrieu/darkflow) (Object detection/tagging)
+
+### Automating Shooting
+* [Axis Camera REST API](https://www.axis.com/files/manuals/vapix_ptz_52933_en_1307.pdf)
+* [Control a servo motor with Python](https://github.com/montoyamoraga/servo_camera) - By Aarón Montoya-Moraga
+
+### NYU Resources
+* [High Performance Computing](https://wikis.nyu.edu/display/NYUHPC/High+Performance+Computing+at+NYU)
+  * [Getting an account](https://wikis.nyu.edu/display/NYUHPC/Getting+or+renewing+an+HPC+account)
 
