@@ -128,11 +128,17 @@ ffmpeg -i input.mp4 -vf "fade=in:0:30" output.mp4
 Slow down a video with frame interpolation:
 
 ```
-ffmpeg -i input.mp4 -vf ""[0:v]minterpolate=fps=120:mi_mode=mci[out];[out]setpts=5*PTS"" -y output.mp4
+ffmpeg -i input.mp4 -vf "[0:v]minterpolate=fps=120:mi_mode=mci[out];[out]setpts=5*PTS" -y output.mp4
 ```
 
 Stitch together all mp4s in a folder:
 
 ```
 ffmpeg -f concat -i <(for f in /path/to/folder/*.mp4; do echo "file '$f'"; done) -c copy output.mp4
+```
+
+Record from a webcam (on mac) for 10 seconds and save to file
+
+```
+ffmpeg -f avfoundation -pixel_format yuyv422 -framerate 30 -video_size 1280x720 -i 0:0 -t 00:00:10 -y webcamrecord.mp4
 ```
